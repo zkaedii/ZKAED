@@ -1,0 +1,4 @@
+file,classes,functions,imports
+h_hat_predictor.py,['HHatPredictor'],"['__init__', 'load_model', 'predict_from_params', 'get_feature_importances']","['os', 'joblib']"
+h_hat_test_harness.py,[],"['generate_random_params', 'run_test_cases']","['h_hat_predictor', 'os', 'random', 'math']"
+h_hat_deep_test_harness.py,[],"['generate_random_params', 'run_deep_dive']","['os', 'math', 'random', 'h_hat_predictor', 'statistics']"
